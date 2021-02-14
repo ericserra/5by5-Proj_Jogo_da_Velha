@@ -1,2 +1,4 @@
-# 5by5-Proj_Jogo_da_Velha
+# 5by5 - Projeto de Programação
+## Jogo da velha em C#
+
 Projeto de jogo da velha em C##
