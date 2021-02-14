@@ -1,5 +1,5 @@
 # Jogo da Velha C#
-
+**Programa criado como parte do treinamento do projeto InterAção da empresa 5by5**
 ## Atualizações:
 **Versão 1.0**
 **Data de lançamento: 14/02/2021**
