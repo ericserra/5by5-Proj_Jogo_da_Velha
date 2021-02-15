@@ -8,11 +8,10 @@
 ## Guia
 
 Ao iniciar o jogo, será solicitado a entrada do nome dos jogadores. 
-O primeiro ira jogar com o X e o segundo com o O.
+O primeiro ira jogar com o **X** e o segundo com o **O**.
 O mapa de posições foi baseado no teclado numérico.
 Para confirmar suas jogadas, será necessário apertar a tecla Enter. 
 **Observação importante: Para a Jogada, o programa aceita apenas números inteiros**
-
 
 
 ## Contribuidores
