@@ -16,8 +16,8 @@ Para confirmar suas jogadas, será necessário apertar a tecla Enter.
 
 
 ## Contribuidores
-- *Eric de Souza Serra - 
-- *Luiz Fernando Gouvea - 
+- Eric de Souza Serra 
+- Luiz Fernando Gouvea 
 
 
 
