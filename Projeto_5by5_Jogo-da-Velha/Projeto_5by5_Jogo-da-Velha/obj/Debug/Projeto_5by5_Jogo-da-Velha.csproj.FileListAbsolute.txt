@@ -1,0 +1,7 @@
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\Projeto_5by5_Jogo-da-Velha\Projeto_5by5_Jogo-da-Velha\bin\Debug\Projeto_5by5_Jogo-da-Velha.exe.config
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\Projeto_5by5_Jogo-da-Velha\Projeto_5by5_Jogo-da-Velha\bin\Debug\Projeto_5by5_Jogo-da-Velha.exe
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\Projeto_5by5_Jogo-da-Velha\Projeto_5by5_Jogo-da-Velha\bin\Debug\Projeto_5by5_Jogo-da-Velha.pdb
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\Projeto_5by5_Jogo-da-Velha\Projeto_5by5_Jogo-da-Velha\obj\Debug\Projeto_5by5_Jogo-da-Velha.csprojAssemblyReference.cache
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\Projeto_5by5_Jogo-da-Velha\Projeto_5by5_Jogo-da-Velha\obj\Debug\Projeto_5by5_Jogo-da-Velha.csproj.CoreCompileInputs.cache
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\Projeto_5by5_Jogo-da-Velha\Projeto_5by5_Jogo-da-Velha\obj\Debug\Projeto_5by5_Jogo-da-Velha.exe
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\Projeto_5by5_Jogo-da-Velha\Projeto_5by5_Jogo-da-Velha\obj\Debug\Projeto_5by5_Jogo-da-Velha.pdb

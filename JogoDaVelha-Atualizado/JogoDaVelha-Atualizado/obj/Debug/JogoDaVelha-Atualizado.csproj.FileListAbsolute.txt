@@ -1,0 +1,7 @@
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\JogoDaVelha-Atualizado\JogoDaVelha-Atualizado\bin\Debug\JogoDaVelha-Atualizado.exe.config
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\JogoDaVelha-Atualizado\JogoDaVelha-Atualizado\bin\Debug\JogoDaVelha-Atualizado.exe
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\JogoDaVelha-Atualizado\JogoDaVelha-Atualizado\bin\Debug\JogoDaVelha-Atualizado.pdb
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\JogoDaVelha-Atualizado\JogoDaVelha-Atualizado\obj\Debug\JogoDaVelha-Atualizado.csprojAssemblyReference.cache
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\JogoDaVelha-Atualizado\JogoDaVelha-Atualizado\obj\Debug\JogoDaVelha-Atualizado.csproj.CoreCompileInputs.cache
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\JogoDaVelha-Atualizado\JogoDaVelha-Atualizado\obj\Debug\JogoDaVelha-Atualizado.exe
+C:\Users\erics\OneDrive\Documents\GitHub\5by5-Proj_Jogo_da_Velha\JogoDaVelha-Atualizado\JogoDaVelha-Atualizado\obj\Debug\JogoDaVelha-Atualizado.pdb
