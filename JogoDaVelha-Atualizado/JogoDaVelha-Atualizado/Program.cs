@@ -37,11 +37,7 @@ namespace JogoDaVelha_Atualizado
             
             jogada(matriz, jogador1, jogador2, ref vencedor);
             vencedor = verificaStatus(matriz);
-            Console.BackgroundColor = ConsoleColor.Blue;
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            if (vencedor == 1) Console.WriteLine("    Jogador(a) 1: " + jogador1 + " é o/a Vencedor(a)");
-            else if (vencedor == 2) Console.WriteLine("    Jogador(a) 2: " + jogador2 + " é o/a Vencedor(a)");
-            else Console.WriteLine("    Deu velha...nenhum vencedor");
+            QuemGanhou(vencedor, jogador1, jogador2);
             Console.ReadKey();
         }
         static void imprimir_jogo(string[,] matriz) //Apenas para a parte gráfica do jogo.
@@ -67,6 +63,7 @@ namespace JogoDaVelha_Atualizado
                 Console.WriteLine();
             }
             Console.WriteLine("\t#-------------------#");
+            
         }
         static void jogada(string[,] matriz, string jogador1, string jogador2, ref int vencedor)
         {
@@ -234,6 +231,14 @@ namespace JogoDaVelha_Atualizado
                 else vencedor = 2;
             }
             return vencedor;
+        }
+        static void QuemGanhou (int vencedor, string jogador1, string jogador2)
+        {
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            if (vencedor == 1) Console.WriteLine("    Jogador(a) 1: " + jogador1 + " é o/a Vencedor(a)");
+            else if (vencedor == 2) Console.WriteLine("    Jogador(a) 2: " + jogador2 + " é o/a Vencedor(a)");
+            else Console.WriteLine("    Deu velha...nenhum vencedor");
         }
     }
 }
