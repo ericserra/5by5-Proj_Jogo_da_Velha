@@ -55,7 +55,7 @@ namespace JogoDaVelha_Atualizado
             Console.WriteLine("    Escolha um numero para sua jogada\n");
             for (int i = 2; i >= 0; i--)
             {
-                Console.WriteLine("\t+===================+");
+                Console.WriteLine("\t#-------------------#");
                 for (int j = 0; j < 3; j++)
                 {
                     Console.Write("\t| ");
@@ -66,7 +66,7 @@ namespace JogoDaVelha_Atualizado
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("\t+===================+");
+            Console.WriteLine("\t#-------------------#");
         }
         static void jogada(string[,] matriz, string jogador1, string jogador2, ref int vencedor)
         {
